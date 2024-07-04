@@ -21,5 +21,5 @@ CMD ["nginx", "-g", "daemon off;"]
 ------------------------
 
 
-## [this is the html file for sthe tatic page ](https://github.com/ALFRED20000/version1/blob/main/index.html')
+## [this is the html file for the static page ](https://github.com/ALFRED20000/version1/blob/main/index.html')
 
