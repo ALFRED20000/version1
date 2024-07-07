@@ -86,4 +86,5 @@ CMD ["nginx", "-g", "daemon off;"]
 </html>
 
 ```
+![image]('//github.com/ALFRED20000/version1/assets/157472773/f09bd646-5af0-45d7-931a-c1651d1850ae')
 
